@@ -1,0 +1,22 @@
+{
+  "name": "growns",
+  "version": "1.0.0",
+  "description": "I don't know what is this",
+  "main": "main.js",
+  "scripts": {
+    "test": "node "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamTHS/GrowNS.git"
+  },
+  "keywords": [
+    "Growtopia"
+  ],
+  "author": "WilliamNS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamTHS/GrowNS/issues"
+  },
+  "homepage": "https://github.com/WilliamTHS/GrowNS#readme"
+}

@@ -1,0 +1,1 @@
+let test = "Trash package lol"
