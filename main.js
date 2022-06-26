@@ -1,1 +1,1 @@
-let test = "Trash package lol"
+module.exports = require('./src/williamns')
