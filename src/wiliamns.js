@@ -1,1 +1,4 @@
-let test = "williamns"
+function isHarendra(string){
+    return string == "harendra"
+}
+module.exports = isHarendra
